@@ -1,10 +1,13 @@
-# Matlabs
+# Virginia Tech Numerical Analysis Projects
 
 This repository is a collection of several numerical analysis matlab projects I completed in college.
 
 ### Polygon Area Project
 
 The goal of this project was to design a matlab function that could compute the area of a convex region with a curved boundary with greater accuracy then the predefined matlab function polyarea.  After some testing and development, I was able to create a function between one and two orders of accuracy higher than matlab under the condition that the region was convex.
+![image](https://github.com/user-attachments/assets/0ce864bf-a737-4d03-871f-90261b4cb62e)  ![image](https://github.com/user-attachments/assets/fa066e1e-c38c-4812-85de-dc4223479790)
+
+
 
 ### Spline Interpolation Project
 
